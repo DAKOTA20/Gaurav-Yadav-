@@ -3,7 +3,11 @@
 ## About Me
 - Deeply interested in science and logical thinking  
 - Exploring how technology and coding can support scientific understanding  
-- Passionate about learning new concepts in physics and math  
+- Passionate about learning new concepts in physics and math
+## Education
+- B.Sc. (PCM) – Ongoing (expected completion in june 2026)
+- 12th – CBSE Board, 2022 (Science Stream: Physics, Chemistry, Mathematics)  
+- 10th – CBSE Board, 2020   
 
 ## Academic Interests
 - Physics: Mechanics, Electricity & Magnetism, Modern Physics  
